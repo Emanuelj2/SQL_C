@@ -2,7 +2,6 @@
 #include <string.h>
 #include <stdlib.h>
 
-#include "token.h"
 
 int main(int argc, char **argv)
 {
